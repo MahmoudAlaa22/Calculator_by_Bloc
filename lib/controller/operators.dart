@@ -1,4 +1,4 @@
 enum Operators{
-  eq,del,clean,elseState
+  equal,del,clean,elseState
 }
 
